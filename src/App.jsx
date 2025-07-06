@@ -37,7 +37,7 @@ export default function App() {
         <p className="text-lg max-w-2xl mx-auto">
           Energía solar inteligente para empresas, hogares y comunidades. Cotiza en minutos, ahorra por años.
         </p>
-        <Button className="text-lg px-8 py-4">Cotiza tu proyecto</Button>
+        import Button from "@/components/ui/button.jsx";
       </header>
     </div>
   );
